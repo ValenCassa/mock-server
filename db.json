@@ -1,39 +1,39 @@
 {
-  maintenance_settings: [
+  "maintenance_settings": [
 			{
-				name: 'type',
-				description: 'Type',
-				required: true
+				"name": "type",
+				"description": "Type",
+				"required": true
 			},
 			{
-				name: 'name',
-				description: 'Name',
-				required: true
+				"name": "name",
+				"description": "Name",
+				"required": true
 			},
 			{
-				name: 'description',
-				description: 'Description',
-				required: true
+				"name": "description",
+				"description": "Description",
+				"required": true
 			},
 			{
-				name: 'value',
-				description: 'Value',
-				required: true
+				"name": "value",
+				"description": "Value",
+				"required": true
 			},
 			{
-				name: 'jurisdiction',
-				description: 'Jurisdiction',
-				required: true
+				"name": "jurisdiction",
+				"description": "Jurisdiction",
+				"required": true
 			},
 			{
-				name: 'active_date',
-				description: 'Active Date',
-				required: true
+				"name": "active_date",
+				"description": "Active Date",
+				"required": true
 			},
 			{
-				name: 'inactive_date',
-				description: 'Inactive Date',
-				required: false
+				"name": "inactive_date",
+				"description": "Inactive Date",
+				"required": false
 			}    
   ]
 }
